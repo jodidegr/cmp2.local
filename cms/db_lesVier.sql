@@ -101,8 +101,8 @@ CREATE TABLE `db_lesVieroptions` (
 --
 
 INSERT INTO `db_lesVieroptions` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://localhost:8888/lesVier', 'yes'),
-(2, 'home', 'http://localhost:8888/lesVier', 'yes'),
+(1, 'siteurl', 'http://dev-projectjodie.pantheonsite.io/', 'yes'),
+(2, 'home', 'http://dev-projectjodie.pantheonsite.io/', 'yes'),
 (3, 'blogname', 'Zonder Schuldgevoel', 'yes'),
 (4, 'blogdescription', 'Just another WordPress site', 'yes'),
 (5, 'users_can_register', '0', 'yes'),

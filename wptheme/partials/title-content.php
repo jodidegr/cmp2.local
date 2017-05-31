@@ -1,0 +1,1 @@
+<div class="col-sm-12 col-md-8 col-lg-8"><?php the_content(); ?></div>
